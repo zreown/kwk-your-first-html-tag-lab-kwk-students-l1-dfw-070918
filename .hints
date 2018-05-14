@@ -12,5 +12,5 @@
     expected: "Hello, World!"
     got: #{value.inspect}
 
-    Does your H1 have exactly \"Hello, World!\" inside the opening and closing tag?
+    Does your H1 have exactly \"Hello, World!\" inside the opening and closing tag without quotation marks? 
   MSG
